@@ -4,3 +4,4 @@ Assembly
 Name
 Priting text with puts function
 Printing text with printf function
+Intel
