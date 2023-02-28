@@ -7,8 +7,8 @@
 
 void swap_int(int *a, int *b)
 {
-	int a = 10;
-	int b = 5;
+	int a = 98;
+	int b = 42;
 	
 
 	printf("a=%d, b=%d\n", b, a);
