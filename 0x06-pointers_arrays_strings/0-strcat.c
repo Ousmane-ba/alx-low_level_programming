@@ -6,7 +6,7 @@
 * @src: pointer to second string
 * Return: pointer to concatenated string
 */
-
+char *_strcat(char *dest, char *src)
 {
     size_t dest_len = strlen(dest);
     size_t i;
