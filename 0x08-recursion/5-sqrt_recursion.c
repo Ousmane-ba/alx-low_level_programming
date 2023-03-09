@@ -3,7 +3,7 @@
 /**
  * check - function that checks for the natural square root
  * @a:int
- * @b:int
+ * @i:int
  * Return: int
  */
 
@@ -17,7 +17,7 @@ int check(int n, int i)
 }
 
 /**
- * _sqrt_recursion - returns the natural square root of a number
+ * _sqrt_recursion - function that returns the natural square root of a number
  * @n: integer to find sqrt of
  * Return: natural square root or -1
  */
